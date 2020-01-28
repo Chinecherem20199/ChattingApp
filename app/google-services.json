@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "907122685540",
+    "firebase_url": "https://chatting-c33ba.firebaseio.com",
+    "project_id": "chatting-c33ba",
+    "storage_bucket": "chatting-c33ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907122685540:android:211e0da1cda89b36a4d171",
+        "android_client_info": {
+          "package_name": "nigeriandailies.com.ng.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907122685540-310pa1fo42pgmfo67u3c3mfnm718tf0e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nigeriandailies.com.ng.chatting",
+            "certificate_hash": "8ae905f7688e2dd695f59f6a8ca1b5fa39961a7e"
+          }
+        },
+        {
+          "client_id": "907122685540-j2uvvpgc6a2k2ua1c7mr1u67k5h0949t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3mkbotsCCRcDPvJ5KQmn2JDRsbB342cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907122685540-j2uvvpgc6a2k2ua1c7mr1u67k5h0949t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
